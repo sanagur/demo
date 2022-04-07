@@ -1,0 +1,16 @@
+class Circle
+{
+static void area(int r)
+{
+final double pi=3.142;
+double result=pi*r*r;
+System.out.println(result);
+}
+}
+class Circle3
+{
+public static void main(String[] args)
+{
+Circle3.area(9);
+}
+}

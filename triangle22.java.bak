@@ -1,0 +1,15 @@
+class triangle22
+{
+ static void area(int b, int h)
+	{
+	  double result=0.5*b*h;
+	  System.out.println(result);
+}
+}
+class triangle23
+{
+	public static void main(String[] args)
+{
+	triangle22.area(6,8);
+}
+}

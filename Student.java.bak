@@ -1,0 +1,13 @@
+class Student
+{
+public static void main(String[] args)
+{
+String student_name="rajesh";
+double fees=19000.50;
+String subject="java";
+String in_name="Qspider";
+System.out.println("student name is"+student_name);
+System.out.println("fees is"+fees);
+}
+}
+

@@ -1,0 +1,15 @@
+class ellipse9
+{
+double area()
+{
+int a=4;
+int b=3;
+final double pi=3.142;
+double result=pi*a*b;
+}
+public static void main(String[] args)
+{
+double s=new ellipse9().area();
+System.out.println(s);
+}
+}

@@ -1,0 +1,12 @@
+class Oneplus
+{
+public static void main(String[] args)
+{
+String name="oneplus";
+String cost =2300.56;
+double color="blue";
+system.out.println(" mobile name is"+name);
+system.out.println(" mobile cost is"+cost);
+system.out.println(" mobile color is"+color);
+}
+}

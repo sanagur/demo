@@ -1,0 +1,12 @@
+class Showroom
+{
+public static void main(String[] args)
+{
+String name="honda";
+int cost =85000;
+String type="diesel";
+System.out.println(" car name is"+name);
+System.out.println(" car cost is"+cost);
+System.out.println(" car type is"+type);
+}
+}
